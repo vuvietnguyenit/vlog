@@ -1,4 +1,4 @@
-module github.com/vuvietnguyenit/golibs
+module github.com/vuvietnguyenit/vlog
 
 go 1.23.3
 
