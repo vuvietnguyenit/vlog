@@ -1,4 +1,4 @@
-package main
+package vlog
 
 import (
 	"net/http"
